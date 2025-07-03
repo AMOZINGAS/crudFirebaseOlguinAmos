@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655041697373",
+    "project_id": "proyectocrud-c5cea",
+    "storage_bucket": "proyectocrud-c5cea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655041697373:android:f43a8578308fd23e655fb4",
+        "android_client_info": {
+          "package_name": "amos.olguin.crudfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyPGKPn9kVTWQ7wXW1iTsszN441rC-Rxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
